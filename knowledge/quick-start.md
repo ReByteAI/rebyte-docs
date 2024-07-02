@@ -8,17 +8,19 @@
 
 - ナレッジ情報を入力し、ナレッジのソースタイプを選択します。ここではローカルファイルを使用するため、「ローカルファイル」を選択します。
 
-<figure><img src="../images/create-knowledge.png" alt=""></figure>
+<figure><img src="../images/screenshot-20240628-110133.png" alt=""></figure>
 
 ## ステップ 2: ファイルをアップロードする
 
+- ドキュメント ID を設定します
+
 - 「ファイルをアップロード」をクリックし、ローカルファイルをアップロードします。
 
-- アップロードが完了すると、ファイルに一意のドキュメント ID が生成されます。
+<!-- - アップロードが完了すると、ファイルに一意のドキュメント ID が生成されます。 -->
 
-- 「ドキュメントを挿入」をクリックして、このファイルをアップロードします。
+- 「保存」をクリックします。
 
-<figure><img src="../images/upload-file.png" alt=""></figure>
+<figure><img src="../images/screenshot-20240628-131203.png" alt=""></figure>
 
 **これで最初のナレッジが作成されました！**
 
@@ -26,20 +28,20 @@
 
 - **検索ボックス**でナレッジを検索し、ENTER キーを押します。
 
-<figure><img src="../images/use-knowledge-1.png" alt=""></figure>
+<figure><img src="../images/screenshot-20240628-131523.png" alt=""></figure>
 
-<figure><img src="../images/use-knowledge-2.png" alt=""><figcaption>検索結果</figcaption></figure>
+<figure><img src="../images/screenshot-20240628-131722.png" alt=""><figcaption>検索結果</figcaption></figure>
 
-または、**エージェント**でナレッジを使用することもできます（ステップ 4 で説明）。
+または、**ツール**でナレッジを使用することもできます（ステップ 4 で説明）。
 
-## ステップ 4: エージェントでナレッジを使用する
+## ステップ 4: ツールでナレッジを使用する
 
 - 「ナレッジを検索」アクションを使用し、使用するナレッジを選択します。
 
-<figure><img src="../images/use-knowledge-3.png" alt=""><figcaption>検索結果</figcaption></figure>
+<figure><img src="../images/screenshot-20240628-133221.png" alt=""><figcaption>検索結果</figcaption></figure>
 
 - ナレッジ検索にクエリを入力し、取得したいクエリ結果の数を設定できます。
 
-<figure><img src="../images/use-knowledge-4.png" alt=""></figure>
+<figure><img src="../images/screenshot-20240628-133430.png" alt=""></figure>
 
 - 結果は「ナレッジ」ページでの検索と同じです。

@@ -2,13 +2,13 @@
 
 ## 使用方法
 
-`Language Model Chat` アクションを使用すると、大規模言語モデルと簡単にチャットして複雑な用途を作成できます。
+`Language Model Chat Interface` アクションを使用すると、大規模言語モデルと簡単にチャットして複雑な用途を作成できます。
 
 このアクションを使用するには、仕様を書いてモデルを設定し、大規模言語モデルが応答を生成します。
 
 ### 仕様
 
-<figure><img src="../../../../images/chat-spec.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../images/screenshot-20240628-143317.png" alt=""><figcaption></figcaption></figure>
 
 **Instruction**
 
@@ -32,7 +32,7 @@
 - 関数呼び出しは、関数を API 呼び出しで記述することで大規模言語モデルを外部ツールに接続し、モデルが 1 つまたは複数の関数を呼び出すための引数を含む JSON オブジェクトを知能的に生成できるようにします。
 - この機能により、モデルから構造化データを取得して、外部 API と対話するアシスタントを作成したり、自然言語を API 呼び出しに変換したりするタスクが可能になります。
 - **Javascript** 形式を使用します。
-- 「ファンクション」 の使用方法の詳細は[こちら](function-calling.md)です。
+<!-- - 「ファンクション」 の使用方法の詳細は[こちら](function-calling.md)です。 -->
 
 ### 設定
 

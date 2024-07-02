@@ -17,7 +17,7 @@
 - [ツールの反復開発プロセス](developers/iterative-development-process-of-an-agent.md)
 - [ツールの設計](agents/design-your-agent/README.md)
 - [](agents/design-your-agent/reference-action-output.md)
-- [エージェントのデプロイ](agents/deploy-your-agent.md)
+- [ツールのデプロイ](agents/deploy-your-agent.md)
 - [アクション](agents/design-your-agent/actions/README.md)
   - [入力](agents/design-your-agent/actions/input.md)
   - [出力](agents/design-your-agent/actions/output.md)
@@ -32,29 +32,29 @@
   - [ツール](agents/design-your-agent/actions/tools/README.md)
     - [ツールの呼び出し](agents/design-your-agent/actions/tools/call-agent.md)
     - [Google 検索](agents/design-your-agent/actions/tools/google-search.md)
-    - [You.com 検索](agents/design-your-agent/actions/tools/you-search.md)
-    - [HTTP リクエストメーカー](agents/design-your-agent/actions/tools/http-request-maker.md)
+    <!-- - [You.com 検索](agents/design-your-agent/actions/tools/you-search.md) -->
+    - [HTTP リクエストマーカー](agents/design-your-agent/actions/tools/http-request-maker.md)
     - [ナレッジ検索](agents/design-your-agent/actions/tools/knowledge-search.md)
     - [ウェブページクローラー](agents/design-your-agent/actions/tools/web-page-crawler.md)
-    - [コードインタープリター](developers/design-your-agent/actions/tools/code-interpreter.md)
-    - [高度なコード実行](agents/design-your-agent/actions/tools/advanced-code-executor.md)
-    - [Dalle 画像生成器](agents/design-your-agent/actions/tools/dalle-image-generator.md)
-    - [Stable Diffusion](agents/design-your-agent/actions/tools/stable-diffusion.md)
-    - [ヒストリーメッセージローダー](agents/design-your-agent/actions/tools/thread-message-loader.md)
-    - [テキストから音声へ](agents/design-your-agent/actions/tools/text-to-audio.md)
-    - [すべてを可視化](agents/design-your-agent/actions/tools/visualize-everything.md)
+        <!-- - [コードインタープリター](developers/design-your-agent/actions/tools/code-interpreter.md) -->
+        <!-- - [高度なコード実行](agents/design-your-agent/actions/tools/advanced-code-executor.md) -->
+        <!-- - [Dalle 画像生成器](agents/design-your-agent/actions/tools/dalle-image-generator.md)
+          <!-- - [Stable Diffusion](agents/design-your-agent/actions/tools/stable-diffusion.md)
+        <!-- - [ヒストリーメッセージローダー](agents/design-your-agent/actions/tools/thread-message-loader.md) -->
+        <!-- - [テキストから音声へ](agents/design-your-agent/actions/tools/text-to-audio.md) -->
+      <!-- - [すべてを可視化](agents/design-your-agent/actions/tools/visualize-everything.md) -->
   - [制御フロー](agents/design-your-agent/actions/control-flow/README.md)
     - [If-Else](agents/design-your-agent/actions/control-flow/if-else.md)
     - [Loop-Until](agents/design-your-agent/actions/control-flow/loop-until.md)
     - [Map-Reduce](agents/design-your-agent/actions/control-flow/map-reduce.md)
-    - [早期リターン](agents/design-your-agent/actions/control-flow/early-return.md)
-- [エージェントのテスト](developers/test-your-agent/README.md)
+    - [Early Return](agents/design-your-agent/actions/control-flow/early-return.md)
+- [ツールのテスト](developers/test-your-agent/README.md)
   - [概要](agents/test-your-agent/overview.md)
   - [データセット](agents/test-your-agent/datasets.md)
-  - [プレイグラウンド](agents/test-your-agent/playground.md)
+  <!-- - [プレイグラウンド](agents/test-your-agent/playground.md) -->
   - [実行](agents/test-your-agent/runs.md)
-- [エージェントのデプロイ](agents/deploy-your-agent.md)
-- [エージェント API](agents/deploy-your-agent.md)
+- [ツールのデプロイ](agents/deploy-your-agent.md)
+<!-- - [ツール API](agents/deploy-your-agent.md) -->
 
 ## ナレッジ
 
@@ -65,7 +65,7 @@
 ## API
 
 - [概要](assistant/overview.md)
-- [エージェント](assistant/api.md)
+- [ツール](assistant/api.md)
 - [スレッド](assistant/thread.md)
 - [メッセージ](assistant/message.md)
 - [ファイル](assistant/file.md)

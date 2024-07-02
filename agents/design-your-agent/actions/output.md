@@ -12,9 +12,9 @@
 
 - 特別な設定がない場合、`OUTPUT` アクションは最後のアクションの出力をユーザーに返します。
 
-<figure><img src="../../../images/output-1.png" alt=""></figure>
+<figure><img src="../../../images/screenshot-20240628-142933.png" alt=""></figure>
 
-<figure><img src="../../../images/output-2.png" alt=""></figure>
+<figure><img src="../../../images/screenshot-20240628-143016.png" alt=""></figure>
 
 ## データ形式
 
