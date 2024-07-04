@@ -2,7 +2,7 @@
 
 ## ファイルのアップロード
 
-`POST https://rebyte.ai/api/sdk/files`
+`POST https://imprai.ai/api/sdk/files`
 
 さまざまなエンドポイントで使用できるファイルをアップロードします。
 
@@ -13,8 +13,8 @@
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/files' \
-  -H "Authorization: Bearer $REBYTE_KEY" \
+curl 'https://imprai.ai/api/sdk/files' \
+  -H "Authorization: Bearer $imprai_KEY" \
   -F file="@mydata.jsonl"
 ```
 
@@ -34,15 +34,15 @@ curl 'https://rebyte.ai/api/sdk/files' \
 
 ## ファイルの一覧取得
 
-`GET https://rebyte.ai/api/sdk/files`
+`GET https://imprai.ai/api/sdk/files`
 
 ファイルのリストを取得します。
 
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/files' \
-  -H "Authorization: Bearer $REBYTE_KEY"
+curl 'https://imprai.ai/api/sdk/files' \
+  -H "Authorization: Bearer $imprai_KEY"
 ```
 
 **リターン**
@@ -76,15 +76,15 @@ curl 'https://rebyte.ai/api/sdk/files' \
 
 ## ファイルの取得
 
-`GET https://rebyte.ai/api/sdk/files/{fileId}`
+`GET https://imprai.ai/api/sdk/files/{fileId}`
 
 fileId でファイルを取得します。
 
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/files/{fileId}' \
-  -H "Authorization: Bearer $REBYTE_KEY" \
+curl 'https://imprai.ai/api/sdk/files/{fileId}' \
+  -H "Authorization: Bearer $imprai_KEY" \
 ```
 
 **リターン**
@@ -108,15 +108,15 @@ curl 'https://rebyte.ai/api/sdk/files/{fileId}' \
 
 ## ファイルコンテンツの取得
 
-`GET https://rebyte.ai/api/sdk/files/{fileId}/content`
+`GET https://imprai.ai/api/sdk/files/{fileId}/content`
 
 fileId でファイルコンテンツを取得します。
 
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/files/{fileId}/content' \
-  -H "Authorization: Bearer $REBYTE_KEY" \
+curl 'https://imprai.ai/api/sdk/files/{fileId}/content' \
+  -H "Authorization: Bearer $imprai_KEY" \
 ```
 
 **リターン**
@@ -131,15 +131,15 @@ curl 'https://rebyte.ai/api/sdk/files/{fileId}/content' \
 
 ## ファイルの削除
 
-`DELETE https://rebyte.ai/api/sdk/files/{fileId}`
+`DELETE https://imprai.ai/api/sdk/files/{fileId}`
 
 fileId でファイルを削除します。
 
 **リクエスト例**
 
 ```shell
-curl --location --request DELETE 'https://rebyte.ai/api/sdk/files/{file_id}' \
---H 'Authorization: Bearer $REBYTE_KEY'
+curl --location --request DELETE 'https://imprai.ai/api/sdk/files/{file_id}' \
+--H 'Authorization: Bearer $imprai_KEY'
 ```
 
 **リターン**

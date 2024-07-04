@@ -13,7 +13,7 @@
 
 ## 開発者向け
 
-- [ツールの概要](overview/understanding-rebyte-architecture.md)
+- [ツールの概要](overview/understanding-imprai-architecture.md)
 - [ツールの反復開発プロセス](developers/iterative-development-process-of-an-agent.md)
 - [ツールの設計](agents/design-your-agent/README.md)
 - [](agents/design-your-agent/reference-action-output.md)
@@ -74,4 +74,4 @@
 
 - [価格](pricing/overview.md) -->
 
-<!-- ## Rebyte チームへの -->
+<!-- ## imprai チームへの -->

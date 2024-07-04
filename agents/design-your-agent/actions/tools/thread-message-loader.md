@@ -26,4 +26,4 @@
 
 ## サンプルエージェント
 
-[こちら](https://rebyte.ai/p/21b2295005587a5375d8/callable/c6b378f9c462ebbe60a8/editor)は、`thread-message-loader` アクションの使用方法を示すサンプルエージェントです。
+[こちら](https://imprai.ai/p/21b2295005587a5375d8/callable/c6b378f9c462ebbe60a8/editor)は、`thread-message-loader` アクションの使用方法を示すサンプルエージェントです。

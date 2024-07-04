@@ -44,4 +44,4 @@
 
 ## サンプルエージェント
 
-[こちら](https://rebyte.ai/p/21b2295005587a5375d8/callable/2852459e7cc4370f1b50/editor)は、`visualize-everything` アクションの使用方法を示すデモエージェントです。
+[こちら](https://imprai.ai/p/21b2295005587a5375d8/callable/2852459e7cc4370f1b50/editor)は、`visualize-everything` アクションの使用方法を示すデモエージェントです。

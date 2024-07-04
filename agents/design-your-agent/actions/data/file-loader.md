@@ -29,7 +29,7 @@
 
 <!-- **Example** -->
 
-<!-- * [File Loader](https://rebyte.ai/p/21b2295005587a5375d8/agent/bb48d1c1658b5a08917a) -->
+<!-- * [File Loader](https://imprai.ai/p/21b2295005587a5375d8/agent/bb48d1c1658b5a08917a) -->
 
 <!-- **Error Handing**
 
@@ -37,4 +37,4 @@
 
 <!-- ## サンプルツール
 
-- [ファイルローダー](https://rebyte.ai/p/21b2295005587a5375d8/callable/bb48d1c1658b5a08917a/editor) -->
+- [ファイルローダー](https://imprai.ai/p/21b2295005587a5375d8/callable/bb48d1c1658b5a08917a/editor) -->

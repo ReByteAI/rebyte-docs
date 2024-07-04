@@ -2,7 +2,7 @@
 
 ## メッセージの挿入
 
-`POST https://rebyte.ai/api/sdk/threads/{threadId}/messages`
+`POST https://imprai.ai/api/sdk/threads/{threadId}/messages`
 
 スレッドに新しいメッセージを作成します。
 
@@ -20,9 +20,9 @@
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/threads/{thread_id}/messages' \
+curl 'https://imprai.ai/api/sdk/threads/{thread_id}/messages' \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer $REBYTE_KEY" \
+  -H "Authorization: Bearer $imprai_KEY" \
   -d '{
       "role": "user",
       "content": "How does AI work? Explain it in simple terms."
@@ -50,7 +50,7 @@ curl 'https://rebyte.ai/api/sdk/threads/{thread_id}/messages' \
 
 ## メッセージの一覧表示
 
-`GET https://rebyte.ai/api/sdk/threads/{threadId}/messages`
+`GET https://imprai.ai/api/sdk/threads/{threadId}/messages`
 
 スレッド内のメッセージの一覧を取得します。
 
@@ -71,9 +71,9 @@ curl 'https://rebyte.ai/api/sdk/threads/{thread_id}/messages' \
 **リクエストの例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/threads/{thread_id}/messages'     \
+curl 'https://imprai.ai/api/sdk/threads/{thread_id}/messages'     \
   -H "Content-Type: application/json" \
-  -H "Authorization: Bearer $REBYTE_KEY" \
+  -H "Authorization: Bearer $imprai_KEY" \
 ```
 
 **リターン**
@@ -101,4 +101,4 @@ curl 'https://rebyte.ai/api/sdk/threads/{thread_id}/messages'     \
 
 ## メッセージの取得
 
-`GET https://rebyte.ai/api/sdk/threads/{threadId}/messages
+`GET https://imprai.ai/api/sdk/threads/{threadId}/messages

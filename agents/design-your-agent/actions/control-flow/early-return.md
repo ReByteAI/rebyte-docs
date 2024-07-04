@@ -12,4 +12,4 @@
 
 ## エージェントの例
 
-<!-- [早期リターン](https://rebyte.ai/p/21b2295005587a5375d8/callable/6b342c4a4042ccc17e58/editor#3) -->
+<!-- [早期リターン](https://imprai.ai/p/21b2295005587a5375d8/callable/6b342c4a4042ccc17e58/editor#3) -->

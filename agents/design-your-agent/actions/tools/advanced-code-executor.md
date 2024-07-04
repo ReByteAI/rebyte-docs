@@ -32,4 +32,4 @@
 
 ## サンプルエージェント
 
-[こちら](https://rebyte.ai/p/21b2295005587a5375d8/callable/2f9c66ce2d576e5dc181/editor)は、「Deno コードエグゼキューター」アクションを使用するエージェントの簡単な例です。
+[こちら](https://imprai.ai/p/21b2295005587a5375d8/callable/2f9c66ce2d576e5dc181/editor)は、「Deno コードエグゼキューター」アクションを使用するエージェントの簡単な例です。

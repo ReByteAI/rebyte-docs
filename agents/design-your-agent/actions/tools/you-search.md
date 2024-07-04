@@ -36,4 +36,4 @@
 
 ## サンプルエージェント
 
-- このアクションを見て、使用するには、次のサンプルエージェントをご覧ください：[You.com 検索](https://rebyte.ai/p/21b2295005587a5375d8/callable/b6e67fc59579d6304fef/editor)。
+- このアクションを見て、使用するには、次のサンプルエージェントをご覧ください：[You.com 検索](https://imprai.ai/p/21b2295005587a5375d8/callable/b6e67fc59579d6304fef/editor)。

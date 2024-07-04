@@ -22,4 +22,4 @@
 
 <!-- ## 例
 
-- [ループ Until](https://rebyte.ai/p/21b2295005587a5375d8/callable/0029ec181e52a9fc2bc3/editor) -->
+- [ループ Until](https://imprai.ai/p/21b2295005587a5375d8/callable/0029ec181e52a9fc2bc3/editor) -->

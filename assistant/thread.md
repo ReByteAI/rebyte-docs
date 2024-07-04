@@ -2,7 +2,7 @@
 
 ## スレッドの作成
 
-`POST https://rebyte.ai/api/sdk/threads`
+`POST https://imprai.ai/api/sdk/threads`
 
 新しいスレッドを作成します。
 
@@ -14,9 +14,9 @@
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/threads' \
+curl 'https://imprai.ai/api/sdk/threads' \
 --H 'Content-Type: application/json' \
---H 'Authorization: Bearer $REBYTE_KEY' \
+--H 'Authorization: Bearer $imprai_KEY' \
 --H 'Cookie: NEXT_LOCALE=en' \
 --data '{
      "metadata": {
@@ -43,7 +43,7 @@ curl 'https://rebyte.ai/api/sdk/threads' \
 
 ### スレッドを一覧表示
 
-`GET https://rebyte.ai/api/sdk/threads`
+`GET https://imprai.ai/api/sdk/threads`
 
 スレッドの一覧を取得します。
 
@@ -57,9 +57,9 @@ curl 'https://rebyte.ai/api/sdk/threads' \
 **リクエストの例**
 
 ```shell
-curl  'https://rebyte.ai/api/sdk/threads?limit=10&order=desc' \
+curl  'https://imprai.ai/api/sdk/threads?limit=10&order=desc' \
 -H 'Content-Type: application/json' \
--H 'Authorization: Bearer $REBYTE_KEY' \
+-H 'Authorization: Bearer $imprai_KEY' \
 -H 'Cookie: NEXT_LOCALE=en'
 ```
 
@@ -96,7 +96,7 @@ curl  'https://rebyte.ai/api/sdk/threads?limit=10&order=desc' \
 
 ### スレッドの取得
 
-`GET https://rebyte.ai/api/sdk/threads/{thread_id}`
+`GET https://imprai.ai/api/sdk/threads/{thread_id}`
 
 ID でスレッドを取得します。
 
@@ -107,9 +107,9 @@ ID でスレッドを取得します。
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/threads/{thread_id}' \
+curl 'https://imprai.ai/api/sdk/threads/{thread_id}' \
 -H 'Content-Type: application/json' \
--H 'Authorization: Bearer $REBYTE_KEY' \
+-H 'Authorization: Bearer $imprai_KEY' \
 -H 'Cookie: NEXT_LOCALE=en'
 ```
 
@@ -131,7 +131,7 @@ curl 'https://rebyte.ai/api/sdk/threads/{thread_id}' \
 
 ### スレッドの更新
 
-`POST https://rebyte.ai/api/sdk/threads/{thread_id}`
+`POST https://imprai.ai/api/sdk/threads/{thread_id}`
 
 スレッドを更新します。
 
@@ -146,9 +146,9 @@ curl 'https://rebyte.ai/api/sdk/threads/{thread_id}' \
 **リクエスト例**
 
 ```shell
-curl 'https://rebyte.ai/api/sdk/threads/{thread_id}' \
+curl 'https://imprai.ai/api/sdk/threads/{thread_id}' \
 -H 'Content-Type: application/json' \
--H 'Authorization: Bearer $REBYTE_KEY' \
+-H 'Authorization: Bearer $imprai_KEY' \
 -H 'Cookie: NEXT_LOCALE=en' \
 --data ' {
     "metadata":

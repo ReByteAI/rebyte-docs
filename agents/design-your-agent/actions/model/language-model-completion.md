@@ -115,4 +115,4 @@ imprai は、OpenAI と類似したメッセージ形式を使用します。メ
 
 ## サンプルツール
 
-- [言語モデル完了](https://rebyte.ai/p/21b2295005587a5375d8/callable/719d2f31bf9fe977f699/editor)
+- [言語モデル完了](https://imprai.ai/p/21b2295005587a5375d8/callable/719d2f31bf9fe977f699/editor)

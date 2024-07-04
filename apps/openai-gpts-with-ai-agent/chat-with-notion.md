@@ -46,7 +46,7 @@
 
 - テストケースを実行し、デプロイします。
 
-このエージェントの設計方法については、[こちら](https://rebyte-ai.gitbook.io/rbyte/apps/openai-gpts-with-ai-agent/design-your-agent)をご覧ください。
+このエージェントの設計方法については、[こちら](https://imprai-ai.gitbook.io/rbyte/apps/openai-gpts-with-ai-agent/design-your-agent)をご覧ください。
 
 ## ステップ 4：imprai API で GPT を作成する
 

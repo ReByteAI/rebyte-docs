@@ -19,7 +19,7 @@
 
 1. **ユーザーの入力から情報を収集する:**
 
-   ReByte の`model-chat`アクションを利用して、ユーザーの初期入力に基づいて情報を抽出します。
+   imprai の`model-chat`アクションを利用して、ユーザーの初期入力に基づいて情報を抽出します。
 
    ![gather info](https://res.cloudinary.com/dfjwtidnh/image/upload/v1710077600/intestor-1_vj3kej.png)
 
@@ -49,6 +49,6 @@
 
 アプリとエージェントの動作を確認するには、以下のリンクを参照してください：
 
-[投資家タイプクイズエージェント](https://rebyte.ai/p/21b2295005587a5375d8/callable/ffdc7bd0d262b62cbd03/editor)
+[投資家タイプクイズエージェント](https://imprai.ai/p/21b2295005587a5375d8/callable/ffdc7bd0d262b62cbd03/editor)
 
-[投資家タイプクイズアプリ](https://rebyte.ai/copilot/0167ad764f8be5e1bd41/session/6afc350466)
+[投資家タイプクイズアプリ](https://imprai.ai/copilot/0167ad764f8be5e1bd41/session/6afc350466)

@@ -18,4 +18,4 @@
 
 <!-- ## ツールの例
 
-* [If Else ツール](https://rebyte.ai/p/21b2295005587a5375d8/callable/f6f55d6029c8a0aedd53/editor) -->
+* [If Else ツール](https://imprai.ai/p/21b2295005587a5375d8/callable/f6f55d6029c8a0aedd53/editor) -->
