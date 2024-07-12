@@ -1,6 +1,6 @@
 # 4 つの重要な RAG 技術ガイド
 
-検索拡張生成（RAG）パイプラインにおけるクエリ変換技術の包括的な概要へようこそ。このシリーズでは、ユーザークエリ処理を革新する 4 つの革新的な方法、すなわちマルチクエリ変換、RAG フュージョン、分解、およびステップバックプロンプティングについて探求します。これらの技術が imprai でどのように実装されるかを、エージェントとアプリの例を用いて示します。
+検索拡張生成（RAG）パイプラインにおけるクエリ変換技術の包括的な概要へようこそ。このシリーズでは、ユーザークエリ処理を革新する 4 つの革新的な方法、すなわちマルチクエリ変換、RAG フュージョン、分解、およびステップバックプロンプティングについて探求します。これらの技術が ReByte でどのように実装されるかを、エージェントとアプリの例を用いて示します。
 
 ## 1. マルチクエリ変換
 
@@ -20,9 +20,9 @@ LLM が 3 つのサブクエリを生成します。
 
 <figure><img src="../images/multi-query-3.png" alt=""></figure>
 
-[マルチクエリのエージェントデモ](https://imprai.ai/p/21b2295005587a5375d8/callable/cd26de3861da546c210f/editor)
+[マルチクエリのエージェントデモ](https://rebyte.ai/p/21b2295005587a5375d8/callable/cd26de3861da546c210f/editor)
 
-[マルチクエリのアプリデモ](https://imprai.ai/copilot/55f1b8fb7803c73c88d6/session/7bca7a6793)
+[マルチクエリのアプリデモ](https://rebyte.ai/copilot/55f1b8fb7803c73c88d6/session/7bca7a6793)
 
 ## 2. RAG フュージョン
 
@@ -38,9 +38,9 @@ LLM が 3 つのサブクエリを生成します。
 
 RAG フュージョンは、imprai でマルチクエリを生成し、ドキュメントを取得する同様のプロセスで示されます。
 
-[RAG フュージョンのエージェントデモ](https://imprai.ai/p/21b2295005587a5375d8/callable/103ce69a89b657efdfc0/editor)
+[RAG フュージョンのエージェントデモ](https://rebyte.ai/p/21b2295005587a5375d8/callable/103ce69a89b657efdfc0/editor)
 
-[RAG フュージョンのアプリデモ](https://imprai.ai/copilot/1583ecb2733c95dea108/session/8ccc51d47f)
+[RAG フュージョンのアプリデモ](https://rebyte.ai/copilot/1583ecb2733c95dea108/session/8ccc51d47f)
 
 ## 3. 分解
 
@@ -56,9 +56,9 @@ LLM が 3 つのサブクエリを生成します。
 
 ここでは、「LLM-chat」アクションを使用してサブクエリを生成し、それらを処理して包括的な回答を形成します。
 
-[分解のエージェントデモ](https://imprai.ai/p/21b2295005587a5375d8/callable/99a7ce76993d93a43411/editor)
+[分解のエージェントデモ](https://rebyte.ai/p/21b2295005587a5375d8/callable/99a7ce76993d93a43411/editor)
 
-[分解のアプリデモ](https://imprai.ai/copilot/55f1b8fb7803c73c88d6/session/7bca7a6793)
+[分解のアプリデモ](https://rebyte.ai/copilot/55f1b8fb7803c73c88d6/session/7bca7a6793)
 
 ## 4. ステップバックプロンプティング
 
@@ -74,9 +74,9 @@ LLM が 3 つのより一般的なクエリを生成します。
 
 この技術は、クエリの具体的な詳細と同様に、バックグラウンド情報が重要な文脈で特に効果を発揮します。
 
-[ステップバックプロンプティングのエージェントデモ](https://imprai.ai/p/21b2295005587a5375d8/callable/069845d6d867c11ef32d/editor)
+[ステップバックプロンプティングのエージェントデモ](https://rebyte.ai/p/21b2295005587a5375d8/callable/069845d6d867c11ef32d/editor)
 
-[ステップバックプロンプティングのアプリデモ](https://imprai.ai/copilot/f527fbc4eca2d3fe326f/session/1dd77d8bd5)
+[ステップバックプロンプティングのアプリデモ](https://rebyte.ai/copilot/f527fbc4eca2d3fe326f/session/1dd77d8bd5)
 
 ## 結論
 

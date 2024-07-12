@@ -41,6 +41,6 @@ const _fun = (env) => {
 
 上記の例で示されたコードは、以下のツールで見つけることができます。
 
-[コードアクション](https://imprai.ai/p/21b2295005587a5375d8/callable/4929456b3b6bfcee316d/editor)
+[コードアクション](https://rebyte.ai/p/21b2295005587a5375d8/callable/4929456b3b6bfcee316d/editor)
 
 ご不明点がありましたら、お知らせください。 -->

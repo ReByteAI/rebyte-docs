@@ -34,8 +34,8 @@
 
 ここでは、すでにアプリとエージェントを構築しました。詳細については、以下のリンクをクリックしてください！
 
-[リサーチアシスタントアプリ](https://imprai.ai/copilot/1167e1b4f904deb2d5a8/session/5c300017f8)
+[リサーチアシスタントアプリ](https://rebyte.ai/copilot/1167e1b4f904deb2d5a8/session/5c300017f8)
 
-[リサーチアシスタントエージェント](https://imprai.ai/p/21b2295005587a5375d8/callable/2928590849debbe78f55/editor)
+[リサーチアシスタントエージェント](https://rebyte.ai/p/21b2295005587a5375d8/callable/2928590849debbe78f55/editor)
 
-[リサーチアシスタントヘルパーエージェント: ページ内容のクロール](https://imprai.ai/p/21b2295005587a5375d8/callable/deee1561301aadcfb6fb/editor)
+[リサーチアシスタントヘルパーエージェント: ページ内容のクロール](https://rebyte.ai/p/21b2295005587a5375d8/callable/deee1561301aadcfb6fb/editor)

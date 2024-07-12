@@ -27,12 +27,12 @@
 
 <figure><img src="../../../../images/sd-5.png"></figure>
 
-- 次のアクションでURLを参照するには、`env.state.imprai_OPENAI_IMAGE_GEN_1.images[0].url`または`{{imprai_OPENAI_IMAGE_GEN_1.images[0].url}}`を使用できます。
+- 次のアクションでURLを参照するには、`env.state.REBYTE_OPENAI_IMAGE_GEN_1.images[0].url`または`{{REBYTE_OPENAI_IMAGE_GEN_1.images[0].url}}`を使用できます。
   
-- Base64エンコードされた画像は、`env.state.imprai_OPENAI_IMAGE_GEN_1.images[0].base64`または`{{imprai_OPENAI_IMAGE_GEN_1.images[0].base64}}`を使用して参照できます。
+- Base64エンコードされた画像は、`env.state.REBYTE_OPENAI_IMAGE_GEN_1.images[0].base64`または`{{REBYTE_OPENAI_IMAGE_GEN_1.images[0].base64}}`を使用して参照できます。
 
 ## サンプルエージェント
 
-- [これ](https://imprai.ai/p/21b2295005587a5375d8/callable/3396e0e83a81396c1ba7/editor)は Stable Diffusion アクションの「HowToUse」エージェントです。
+- [これ](https://rebyte.ai/p/21b2295005587a5375d8/callable/3396e0e83a81396c1ba7/editor)は Stable Diffusion アクションの「HowToUse」エージェントです。
 
-- [これ](https://imprai.ai/copilot/c359f8a71fa2e7c6264a/session/d67c8195be)は Stable Diffusion のためのアプリです。
+- [これ](https://rebyte.ai/copilot/c359f8a71fa2e7c6264a/session/d67c8195be)は Stable Diffusion のためのアプリです。

@@ -24,4 +24,4 @@
 
 🎉 これでチャットインターフェースでアプリを使用できます！
 
-**このアプリを[こちら](https://imprai.ai/copilot/b1518cc7d7d76055f4b3/session/2d1a606382)で試すことができます**
+**このアプリを[こちら](https://rebyte.ai/copilot/b1518cc7d7d76055f4b3/session/2d1a606382)で試すことができます**

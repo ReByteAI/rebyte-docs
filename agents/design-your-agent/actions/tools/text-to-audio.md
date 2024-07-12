@@ -23,7 +23,7 @@
 ```json
 {
   "args": {
-    "text": "こんにちは！ impraiを使用していただきありがとうございます！"
+    "text": "こんにちは！ ReByteを使用していただきありがとうございます！"
   },
   "base64String": "//UklGRiQAAABXQVZFZm10IBAAAAABAAEAgD4AAAB9AAACABAAZGF0YQAAAAAA..."
 }
@@ -31,4 +31,4 @@
 
 ## サンプルエージェント
 
-[こちら](https://imprai.ai/p/21b2295005587a5375d8/callable/30fb713f62a5a2b562a3/editor#1)は、「text to audio」アクションを使用するエージェントのシンプルな例です。
+[こちら](https://rebyte.ai/p/21b2295005587a5375d8/callable/30fb713f62a5a2b562a3/editor#1)は、「text to audio」アクションを使用するエージェントのシンプルな例です。

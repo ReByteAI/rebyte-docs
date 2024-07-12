@@ -29,4 +29,4 @@
 
 <!-- ## サンプルツール
 
-- [ウェブページクローラー](https://imprai.ai/p/21b2295005587a5375d8/callable/35358e328e30adf8a737/editor) -->
+- [ウェブページクローラー](https://rebyte.ai/p/21b2295005587a5375d8/callable/35358e328e30adf8a737/editor) -->

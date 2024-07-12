@@ -25,5 +25,5 @@
 
 <figure><img src="../../../../images/dalle-4.png"></figure>
 
-- 次のアクションで URL を参照するには、 `env.state.imprai_OPENAI_IMAGE_GEN_1.images[0].url`または`{{imprai_OPENAI_IMAGE_GEN_1.images[0].url}}`を使用できます。
-- base64 エンコードされた画像は、 `env.state.imprai_OPENAI_IMAGE_GEN_1.images[0].base64`または`{{imprai_OPENAI_IMAGE_GEN_1.images[0].base64}}`を使用して参照できます。
+- 次のアクションで URL を参照するには、 `env.state.REBYTE_OPENAI_IMAGE_GEN_1.images[0].url`または`{{REBYTE_OPENAI_IMAGE_GEN_1.images[0].url}}`を使用できます。
+- base64 エンコードされた画像は、 `env.state.REBYTE_OPENAI_IMAGE_GEN_1.images[0].base64`または`{{REBYTE_OPENAI_IMAGE_GEN_1.images[0].base64}}`を使用して参照できます。
