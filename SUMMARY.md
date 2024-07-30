@@ -14,7 +14,7 @@
 
 ### Examples
 
-* [Create An Assistant to analyze S&P 500 Index](sp500.md)
+* [Analyzer S&P 500 Index](sp500.md)
 * [Analyze Fraud Transactions](fraud.md)
 
 [//]: # (* [User And Team]&#40;guide/teams/overview.md&#41;)
