@@ -49,6 +49,10 @@ Builder can also see the actual tool running log to debug if there's any issue.
 ReByte planner iteratively writes/executes code in the code sandbox to achieve the goal.
 This is super useful to do things like data analysis, numerical computation, etc. Code execution environment is isolated for each user iteration.
 
+### Language that the assistant uses
+You can control the language that the assistant uses to communicate with you.  
+go to 'user settings' -> 'language' to change the language.
+
 ## Hallucination
 Hallucination is a common issue in AI assistants. In our system, we try to solve these issues in the following ways:
 
