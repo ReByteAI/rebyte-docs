@@ -16,16 +16,20 @@ In terms of functionality, **Super Assistant** is no different from other assist
 
 ## For Team Builder and Admin
 
-
 ### Configure Team Assistant
 Only builders or admin in your team can configure the team assistant. 
 
 Each assistant, including **Revia**, contains:
 * **Planner**: can plan and execute a sequence of tools to achieve a specific goal.
-* **Code Sandbox**: Handle arbitrary code execution, such as data analysis, data visualization, etc. 
+* **Code Interpreter**: Run arbitrary python code in sandbox, such as data analysis, data visualization, etc. 
 * **List of ReByte Tools**: a list of ReByte Tools that can be used by the assistant. Tool can be built by your team or by other tool builders, or by ReByte team.
-
-**Planner** and **Code Sandbox** can be optional. In that case, user has to ask specific tool to perform a specific task.
+  * Assign data to the tool
+    * When developers build a tool, they use their own knowledge/table to build the tool. Those build time knowledge/tables are not always available to the assistant users. When you create an assistant, you can attach your own knowledge/table to the assistant, so that the assistant can use those knowledge/table to perform tasks.
+    * IMPORTANT: This implies that you give the assistant users access to your knowledge/table, so you should be careful about what knowledge/table you attach to the assistant.
+  * Customized tool or not
+    * For most of the cases, you can use tools provided by ReByte team. We will continue to update the tools to make them have the latest features, you will get that update by default.
+    * For some specific use cases, you may need to build your own tools, you can do that in developer platform. In these cases, you have to manually update the tool to get the latest features provided by ReByte team.
+  **Planner** and **Code Interpreter** can be optional. In that case, user has to ask a specific tool to perform a specific task.
 
 
 ## For Team Member
